@@ -1,4 +1,4 @@
-# Hi friends 👋 #
+# Hi there 👋 #
 
 ## The Basics
 
