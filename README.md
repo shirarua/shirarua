@@ -4,7 +4,7 @@
 
 😄 She/Her 🗣️ SHEE-rah 🌶️ Neurospicy 
 
-A neuropsychology student, turned cook, turned data analyst. Let's just say I took the scenic route.
+A former neuropsychology student, turned cook, turned data analyst. Let's just say I took the scenic route.
 
 In a wonderfully unconventional way, I was first introduced to data analysis as a kitchen manager. 
 I was lucky to work with a talented programmer who built a custom system of interactive reports based on mountains of data. 
@@ -31,10 +31,3 @@ I'm scared to admit that the learning may never end...
 
 
 🔎  Beginning my hunt for my first role as an analyst.
-
-:clapper: ***Coming soon:*** my project portfolio 
-
-
-
-
-
