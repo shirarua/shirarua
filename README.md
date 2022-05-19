@@ -17,17 +17,22 @@ Now, the once seemingly disjointed skills I picked up over the years are finally
 I have been able to combine my love of mathematics, behavioral economics, 
 psychology, and communication to produce clear narratives out of simple tables of data.
 
-## In the works
-
-Currently tumbling down the seemingly infinite rabbithole of data analysis :rabbit::stopwatch::sparkles:
-
+Currently tumbling down the seemingly infinite rabbithole of data analysis :rabbit::stopwatch::sparkles: 
 I'm scared to admit that the learning may never end...
 
+## Certifications
+
+- Data Analysis Professional Training Program (*Apr 2022*), **Practicum Israel** *by Yandex & Masterschool* 
+
+## In the works
+
+Currently building my **portfolio**. Find my updated Practicum projects in the Portfolio respository. 
+
 **On track to complete the following by the end of the month:**
-  - [ ] Practicum100 Data Analyst track from Yandex
+
   - [ ] DataCamp Data Analyst with Python certicification track
   - [ ] A smattering of additional DataCamp courses on SQL, Excel, & more
-  - [ ] Perfecting my gluten-free pancake recipe :pancakes:
+  - [X] Perfecting my gluten-free pancake recipe :pancakes:
 
 
 🔎  Beginning my hunt for my first role as an analyst.
