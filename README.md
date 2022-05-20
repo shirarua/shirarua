@@ -22,11 +22,14 @@ I'm scared to admit that the learning may never end...
 
 ## Certifications
 
-- Data Analysis Professional Training Program (*Apr 2022*), **Practicum Israel** *by Yandex & Masterschool* 
+### Data Analysis Professional Training Program, *Practicum Israel by Yandex & Masterschool*
+**Topics covered:** Python *(including Pandas & various graphing libraries)*, SQL, Tableau, Excel, data cleaning, data manipulation, data visualization, A/B testing, business analytics
+
+**[Click here for my project portfolio](https://github.com/shirarua/practicum-projects)**
+
+*Note: I am currently updating my projects and uploading them to this repository. This will be continuously updated in the coming weeks.*
 
 ## In the works
-
-Currently building my **portfolio**. Find my updated Practicum projects in the Portfolio respository. 
 
 **On track to complete the following by the end of the month:**
 
