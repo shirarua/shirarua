@@ -2,7 +2,7 @@
 
 ## The Basics
 
-😄 She/Her 🗣️ SHEE-rah 🌶️ Neurospicy 
+😄 She/Her 🗣️ SHEE-rah 🌶️ Neurospicy :link:  **[LinkedIn](https://www.linkedin.com/in/shira-grunfeld/)**
 
 A former neuropsychology student, turned cook, turned data analyst. Let's just say I took the scenic route.
 
