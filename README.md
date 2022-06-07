@@ -2,7 +2,10 @@
 
 ## The Basics
 
-😄 She/Her 🗣️ SHEE-rah 🌶️ Neurospicy :link:  **[LinkedIn](https://www.linkedin.com/in/shira-grunfeld/)**
+😄 She/Her  🗣️ SHEE-rah  🌶️ Neurospicy
+
+:bar_chart: **[Tableau](https://public.tableau.com/app/profile/shira3525)** 
+:link: **[LinkedIn](https://www.linkedin.com/in/shira-grunfeld/)**
 
 A former neuropsychology student, turned cook, turned data analyst. Let's just say I took the scenic route.
 
